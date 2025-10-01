@@ -1,2 +1,4 @@
 # Java
-códigos produzidos em java, com intenções de aprendizado e melhora da linguagem
+SISTEMAS FEITOS EM JAVA ( BÁSICOS E MÉDIOS)
+
+CADA "ATIVIDADE" É UM SISTEMA DIFERENTE, COM VALIDAÇÕES DIFERENTES ETC...
